@@ -1,0 +1,16 @@
+{
+    "version": "20261015",
+    "har": {
+        "小浣熊AI每日积分": {
+            "name": "小浣熊AI每日积分",
+            "author": "leoson67",
+            "url": "",
+            "update": false,
+            "comments": "商汤小浣熊(xiaohuanxiong.com)每日登录自动领积分。变量 cookie 直接粘贴登录后整串 Cookie（须含 raccoon_token=...），模板会自动从中抽取 JWT 作为 Bearer。",
+            "filename": "小浣熊AI每日积分.har",
+            "date": "2026-10-15",
+            "version": "20261015",
+            "commenturl": ""
+        }
+    }
+}
